@@ -100,8 +100,8 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 * • 22, 2253
 
 ### Jangan Lupa Traktir Kopi
-<a href="https://saweria.io/bangsngek" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
-https://saweria.io/bangsngek
+<a href="https://saweria.co/bangsngek" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
+https://saweria.co/bangsngek
 
 ### 5. MENU, INFO ,UPDATE ,FIX
 * untuk menampilkan menu
@@ -378,7 +378,7 @@ reboot
 <h2>Contact me: <br>
 <a href="https://github.com/BangsNgek"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
 <a href="https://facebook.com/cybernamework"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<a href="https://saweria.io/bangsngek"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+<a href="https://saweria.co/bangsngek"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 </div>
 <h2 align="center">
